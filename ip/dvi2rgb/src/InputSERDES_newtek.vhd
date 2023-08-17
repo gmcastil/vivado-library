@@ -2,6 +2,7 @@
 --
 -- File: InputSERDES.vhd
 -- Author: Elod Gyorgy
+-- Modified: George Castillo
 -- Original Project: HDMI input on 7-series Xilinx FPGA
 -- Date: 8 October 2014
 --
